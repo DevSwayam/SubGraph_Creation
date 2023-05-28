@@ -1,0 +1,1 @@
+End Pont = https://api.studio.thegraph.com/query/47513/sepo_subgraph/v0.1
