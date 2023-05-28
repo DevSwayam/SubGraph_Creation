@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "Sepo": {
+      "address": "0x602D0dfD1577C58545c574BfA88C5Bc079469689",
+      "startBlock": 0
+    }
+  }
+}
