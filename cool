@@ -1,1 +1,2 @@
-graph init --studio thegraphmumbai
+graph auth --studio 6599685d8be78d21471cf3488a5cacfd
+
